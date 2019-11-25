@@ -1,7 +1,7 @@
 # buoyant_entrainment
 Code used in "Buoyancy-Driven Entrainment in Dry Thermals" by McKim et al. (2019) to analyze simulations of dry convection.
 
-For ease of understanding, the files best read in the following order:
+For ease of understanding, the files are best read in the following order:
 - h5_to_netcdf.py
 - tracking.py
 - vorticity.py
